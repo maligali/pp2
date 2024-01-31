@@ -66,7 +66,7 @@ list1.extend(list2)
 print(list1)
 
 #List methods
-'''()	Adds an element at the end of the list
+'''append()	Adds an element at the end of the list
 clear()	Removes all the elements from the list
 copy()	Returns a copy of the list
 count()	Returns the number of elements with the specified value
