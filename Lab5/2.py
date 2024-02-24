@@ -1,5 +1,5 @@
 import re
 
-word = "abbbaabbabbbbab"
+word = str(input())
 
 print(re.findall("abbb|abb", word))

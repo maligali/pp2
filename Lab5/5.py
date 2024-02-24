@@ -1,5 +1,5 @@
 import re
 
-word = "Asbjqdbbaaabsssbaabaa"
+word = str(input())
 
 print(re.findall("a.*b$", word))

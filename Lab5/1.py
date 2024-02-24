@@ -1,5 +1,5 @@
 import re
 
-word = "abbbaab"
+word = str(input())
 
 print(re.findall("ab*", word))
