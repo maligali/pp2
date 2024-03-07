@@ -1,0 +1,5 @@
+str = str(input())
+up = sum(1 for ch in str if ch.isupper())
+low = sum(1 for ch in str if ch.islower())
+print(f"Uppercase letters: {up}")
+print(f"Lowercase letters: {low}")

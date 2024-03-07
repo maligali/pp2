@@ -1,0 +1,4 @@
+cocoa, coffee, teaHello
+My name is Malika
+I love cats
+I like singing
